@@ -8,7 +8,7 @@ This is a simple C# app that helps Windows users start mining without dealing wi
 Upon starting for the first time it will run simplewallet to generate a new address (with a default wallet password of `x`). The user can then input a pool host & port, select how many CPU cores they want to use, the click `Start Mining`.
 
 
-The app will spawn instances of simpleminer for each core with the approperiate command-line arguments.
+The app will spawn instances of simpleminer for each core with the appropriate command-line arguments.
 
 
 ####Download
