@@ -1,4 +1,4 @@
-CryptoNote-Easy-Miner
+Fedoragold (FED) Windows Miner  (derived from CryptoNote-Easy-Miner)
 ===
 
 This is a simple C# app that helps Windows users start mining without dealing with command-line operated binaries. It is bundled with the latest 32 & 64 bit builds of simpleminer and simplewallet.
