@@ -13,4 +13,4 @@ The app will spawn instances of simpleminer for each core with the appropriate c
 
 ####Download
 
-Get the latest build here: [releases](//github.com/zone117x/cryptonote-easy-miner/releases)
+Get the latest build here: [releases](https://github.com/jojapoppa/fedoragold-release.git)
